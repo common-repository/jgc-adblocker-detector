@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JGC AdBlocker Detector\n"
+"POT-Creation-Date: 2017-08-09 11:35+0100\n"
+"PO-Revision-Date: 2017-08-09 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/jgcabd-functions.php:132
+msgid "Close"
+msgstr ""
+
+#: inc/jgcabd-options.php:120 jgc-adblocker-detector.php:69
+msgid "Settings"
+msgstr ""
+
+#: inc/jgcabd-options.php:123
+msgid "General"
+msgstr ""
+
+#: inc/jgcabd-options.php:124 inc/jgcabd-options.php:160
+msgid "Modal box"
+msgstr ""
+
+#: inc/jgcabd-options.php:125 inc/jgcabd-options.php:162
+msgid "Text containers"
+msgstr ""
+
+#: inc/jgcabd-options.php:126
+msgid "Google Analytics"
+msgstr ""
+
+#: inc/jgcabd-options.php:140
+#, php-format
+msgid ""
+"%1$s allows you to display a notice when an ad blocker is detected. This "
+"notice can be displayed in a modal box or as text containers in the places "
+"where your ads usually appear. If you are not an advanced user of WordPress "
+"the recommended option is the modal box."
+msgstr ""
+
+#: inc/jgcabd-options.php:144
+msgid "Enable plugin"
+msgstr ""
+
+#: inc/jgcabd-options.php:148
+msgid "Enable AdBlocker Detector"
+msgstr ""
+
+#: inc/jgcabd-options.php:152
+msgid "Disable for administrators"
+msgstr ""
+
+#: inc/jgcabd-options.php:157
+msgid "Notice mode"
+msgstr ""
+
+#: inc/jgcabd-options.php:164
+msgid ""
+"When you have selected the mode, go to the corresponding tab to set its "
+"settings."
+msgstr ""
+
+#: inc/jgcabd-options.php:172
+msgid ""
+"Here you can set notice heading and text and if the modal box will show a "
+"button to close it."
+msgstr ""
+
+#: inc/jgcabd-options.php:175
+msgid "Notice heading"
+msgstr ""
+
+#: inc/jgcabd-options.php:190
+msgid "Notice text"
+msgstr ""
+
+#: inc/jgcabd-options.php:198
+msgid "Close button"
+msgstr ""
+
+#: inc/jgcabd-options.php:201
+msgid "Display"
+msgstr ""
+
+#: inc/jgcabd-options.php:203
+msgid "Not display"
+msgstr ""
+
+#: inc/jgcabd-options.php:212
+msgid ""
+"This option requires a minimum knowledge of the CSS of your WordPress theme."
+msgstr ""
+
+#: inc/jgcabd-options.php:214
+#, php-format
+msgid ""
+"%1$s will create a div container before the CSS selectors you indicate below "
+"to display your custom text."
+msgstr ""
+
+#: inc/jgcabd-options.php:216
+msgid ""
+"These CSS selectors should match those assigned to the containers in your "
+"ads."
+msgstr ""
+
+#: inc/jgcabd-options.php:219
+msgid "CSS selectors (comma separated)"
+msgstr ""
+
+#: inc/jgcabd-options.php:222
+msgid ""
+"'class' or 'id' selectors of elements before which you want to display your "
+"custom text (comma separated)."
+msgstr ""
+
+#: inc/jgcabd-options.php:223
+msgid "Eg: #adsense, .hentry .ads, .sponsor"
+msgstr ""
+
+#: inc/jgcabd-options.php:236
+msgid "Text of containers"
+msgstr ""
+
+#: inc/jgcabd-options.php:249
+msgid "Google Analytics event tracking"
+msgstr ""
+
+#: inc/jgcabd-options.php:251
+msgid ""
+"Enable this option if your site already has a Google Analytics tracking code "
+"and you want to create an event to track the use of ad blockers."
+msgstr ""
+
+#: inc/jgcabd-options.php:253
+msgid ""
+"Notice: The creation of this event will distort the bounce rate in Google "
+"Analytics because even if the visitor sees only one page, it will be "
+"interpreted as having seen two. The bounce rate will appear lower than it "
+"actually is."
+msgstr ""
+
+#: inc/jgcabd-options.php:257
+msgid "Create Google Analytics event tracking for Ad Blockers"
+msgstr ""
+
+#: inc/jgcabd-options.php:259
+#, php-format
+msgid "Event Category: %1$s | Event Action: %2$s"
+msgstr ""
+
+#: inc/jgcabd-options.php:267
+msgid "Save changes"
+msgstr ""
+
+#: inc/jgcabd-options.php:274
+msgid "Links"
+msgstr ""
+
+#: inc/jgcabd-options.php:276
+msgid ""
+"Please, if you are happy with the plugin, say it on wordpress.org and give "
+"it a nice review. Thank you."
+msgstr ""
+
+#: inc/jgcabd-options.php:277
+msgid "Rate/Review"
+msgstr ""
+
+#: inc/jgcabd-options.php:279
+msgid "Support forum"
+msgstr ""
+
+#: inc/jgcabd-options.php:281
+msgid "Our WordPress Themes"
+msgstr ""
